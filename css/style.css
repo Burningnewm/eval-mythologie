@@ -1,0 +1,19 @@
+.containerConnexion{
+    padding-top: 10vh;
+    width: 30% !important;
+    margin-left: 35% !important;
+}
+.containerArticles{
+    margin-top: 5vh !important;
+    display: flex !important;
+    flex-direction: row;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 2rem !important;
+    background-image: url('./images/backgroundMythologie.jpg');
+    padding-bottom: 3rem;
+}
+.center{
+    width: 60%;
+    margin: 2rem auto;
+}
